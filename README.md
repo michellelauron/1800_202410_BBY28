@@ -1,12 +1,12 @@
 # Project Title
 
 ## 1. Project Description
-Our project will track the spending and income of a user to give them a specified scheduled update on their spending habits 
+Our project will track the spending and income of a user to give them a specified scheduled update on their spending habits.
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
-* Michelle Lauron
 * Hi my name's Alexis Ingente I am so excited to be here and build an app together!!!
+* Hi, my name is Michelle Lauron. I am so excited to work with all of you to build this app!
 * Jarod Foster
 	
 ## 3. Technologies and Resources Used
