@@ -7,7 +7,7 @@ Our project will track the spending and income of a user to give them a specifie
 List team members and/or short bio's here... 
 * Michelle Lauron
 * Alexis Ingente
-* ...
+* Jarod Foster
 	
 ## 3. Technologies and Resources Used
 List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
