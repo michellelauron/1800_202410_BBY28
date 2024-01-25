@@ -5,7 +5,7 @@ Our project will track the spending and income of a user to give them a specifie
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
-* Michelle Lauron
+* Hi, my name is Michelle Lauron. I am so excited to work with all of you to build this app!
 * Alexis Ingente
 * Jarod Foster
 	
