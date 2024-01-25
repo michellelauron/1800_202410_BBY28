@@ -1,8 +1,7 @@
 # Project Title
 
 ## 1. Project Description
-State your app in a nutshell, or one-sentence pitch. Give some elaboration on what the core features are.  
-This browser based web application to ... 
+Our project will track the spending and income of a user to give them a specified scheduled update on their spending habits 
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
