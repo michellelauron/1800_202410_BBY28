@@ -11,7 +11,17 @@
     integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <title>Notify</title>
 
-    
+    <!-------------------------------------------------------->
+    <!-- Firebase 8 Library related CSS, JS, JQuery go here -->
+    <!-------------------------------------------------------->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/ui/4.8.1/firebase-ui-auth.js"></script> 
+    <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/4.8.1/firebase-ui-auth.css" />
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-storage.js"></script>
+
     
 
 </head>
@@ -73,7 +83,6 @@
                     <div class="card-body p-4 p-lg-5 text-black">
       
                       <form>
-      
                         <div class="d-flex align-items-center mb-3 pb-1">
                           <i class="fas fa-cubes fa-2x me-3" style="color: #ff6219;"></i>
                           <span class="h1 fw-bold mb-0">Logo</span>
@@ -98,7 +107,9 @@
                         <a class="small text-muted" href="#!">Forgot password?</a>
                         <p class="mb-5 pb-lg-2" style="color: #393f81;">Don't have an account? <a href="#!"
                             style="color: #393f81;">Register here</a></p>
-                      </form>
+                        </form>
+
+                      
       
                     </div>
                   </div>
@@ -121,12 +132,11 @@
 
 
 
-
-
-
-
-
-
+    <!---------------------------------------------->
+    <!-- Your own JavaScript functions go here    -->
+    <!---------------------------------------------->
+    <script src="./scripts/firebaseAPI_BBY28.js"></script>
+    <script src="./scripts/authentication.js"></script>
 
 
 
